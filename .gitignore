@@ -1,0 +1,14 @@
+# Ignorer les séquences
+*.fastq
+*fastq.gz
+*.fq
+*.fq.gz
+*.bam
+
+# Ignorer les archives non nécessaires
+*.zip
+*.tar.gz
+
+# Système
+.DS_Store
+Thumbs.db
