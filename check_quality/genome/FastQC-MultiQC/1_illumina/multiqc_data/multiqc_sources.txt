@@ -1,0 +1,15 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	E745.CHR.paired_dat1	/mnt/c/Users/aimer/Documents/bioinfo_PROJ/2_qualitycheck/2_genome/1_illumina/E745.CHR.paired_dat1_fastqc.zip
+FastQC	all_sections	E745.CHR.paired_dat2	/mnt/c/Users/aimer/Documents/bioinfo_PROJ/2_qualitycheck/2_genome/1_illumina/E745.CHR.paired_dat2_fastqc.zip
+FastQC	all_sections	E745.Pl1.paired_dat1	/mnt/c/Users/aimer/Documents/bioinfo_PROJ/2_qualitycheck/2_genome/1_illumina/E745.Pl1.paired_dat1_fastqc.zip
+FastQC	all_sections	E745.Pl1.paired_dat2	/mnt/c/Users/aimer/Documents/bioinfo_PROJ/2_qualitycheck/2_genome/1_illumina/E745.Pl1.paired_dat2_fastqc.zip
+FastQC	all_sections	E745.Pl2.paired_dat1	/mnt/c/Users/aimer/Documents/bioinfo_PROJ/2_qualitycheck/2_genome/1_illumina/E745.Pl2.paired_dat1_fastqc.zip
+FastQC	all_sections	E745.Pl2.paired_dat2	/mnt/c/Users/aimer/Documents/bioinfo_PROJ/2_qualitycheck/2_genome/1_illumina/E745.Pl2.paired_dat2_fastqc.zip
+FastQC	all_sections	E745.Pl3.paired_dat1	/mnt/c/Users/aimer/Documents/bioinfo_PROJ/2_qualitycheck/2_genome/1_illumina/E745.Pl3.paired_dat1_fastqc.zip
+FastQC	all_sections	E745.Pl3.paired_dat2	/mnt/c/Users/aimer/Documents/bioinfo_PROJ/2_qualitycheck/2_genome/1_illumina/E745.Pl3.paired_dat2_fastqc.zip
+FastQC	all_sections	E745.Pl4.paired_dat1	/mnt/c/Users/aimer/Documents/bioinfo_PROJ/2_qualitycheck/2_genome/1_illumina/E745.Pl4.paired_dat1_fastqc.zip
+FastQC	all_sections	E745.Pl4.paired_dat2	/mnt/c/Users/aimer/Documents/bioinfo_PROJ/2_qualitycheck/2_genome/1_illumina/E745.Pl4.paired_dat2_fastqc.zip
+FastQC	all_sections	E745.Pl5.paired_dat1	/mnt/c/Users/aimer/Documents/bioinfo_PROJ/2_qualitycheck/2_genome/1_illumina/E745.Pl5.paired_dat1_fastqc.zip
+FastQC	all_sections	E745.Pl5.paired_dat2	/mnt/c/Users/aimer/Documents/bioinfo_PROJ/2_qualitycheck/2_genome/1_illumina/E745.Pl5.paired_dat2_fastqc.zip
+FastQC	all_sections	E745.Pl6.paired_dat1	/mnt/c/Users/aimer/Documents/bioinfo_PROJ/2_qualitycheck/2_genome/1_illumina/E745.Pl6.paired_dat1_fastqc.zip
+FastQC	all_sections	E745.Pl6.paired_dat2	/mnt/c/Users/aimer/Documents/bioinfo_PROJ/2_qualitycheck/2_genome/1_illumina/E745.Pl6.paired_dat2_fastqc.zip

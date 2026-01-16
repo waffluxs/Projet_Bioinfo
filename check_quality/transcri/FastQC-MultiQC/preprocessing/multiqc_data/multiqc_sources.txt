@@ -1,0 +1,13 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	ERR1797969_1.subsampled	/mnt/c/Users/aimer/Documents/bioinfo_PROJ/2_qualitycheck/1_transcriptome/ERR1797969_1.subsampled_fastqc.zip
+FastQC	all_sections	ERR1797969_2.subsampled	/mnt/c/Users/aimer/Documents/bioinfo_PROJ/2_qualitycheck/1_transcriptome/ERR1797969_2.subsampled_fastqc.zip
+FastQC	all_sections	ERR1797970_1.subsampled	/mnt/c/Users/aimer/Documents/bioinfo_PROJ/2_qualitycheck/1_transcriptome/ERR1797970_1.subsampled_fastqc.zip
+FastQC	all_sections	ERR1797970_2.subsampled	/mnt/c/Users/aimer/Documents/bioinfo_PROJ/2_qualitycheck/1_transcriptome/ERR1797970_2.subsampled_fastqc.zip
+FastQC	all_sections	ERR1797971_1.subsampled	/mnt/c/Users/aimer/Documents/bioinfo_PROJ/2_qualitycheck/1_transcriptome/ERR1797971_1.subsampled_fastqc.zip
+FastQC	all_sections	ERR1797971_2.subsampled	/mnt/c/Users/aimer/Documents/bioinfo_PROJ/2_qualitycheck/1_transcriptome/ERR1797971_2.subsampled_fastqc.zip
+FastQC	all_sections	ERR1797972_1.subsampled	/mnt/c/Users/aimer/Documents/bioinfo_PROJ/2_qualitycheck/1_transcriptome/ERR1797972_1.subsampled_fastqc.zip
+FastQC	all_sections	ERR1797972_2.subsampled	/mnt/c/Users/aimer/Documents/bioinfo_PROJ/2_qualitycheck/1_transcriptome/ERR1797972_2.subsampled_fastqc.zip
+FastQC	all_sections	ERR1797973_1.subsampled	/mnt/c/Users/aimer/Documents/bioinfo_PROJ/2_qualitycheck/1_transcriptome/ERR1797973_1.subsampled_fastqc.zip
+FastQC	all_sections	ERR1797973_2.subsampled	/mnt/c/Users/aimer/Documents/bioinfo_PROJ/2_qualitycheck/1_transcriptome/ERR1797973_2.subsampled_fastqc.zip
+FastQC	all_sections	ERR1797974_1.subsampled	/mnt/c/Users/aimer/Documents/bioinfo_PROJ/2_qualitycheck/1_transcriptome/ERR1797974_1.subsampled_fastqc.zip
+FastQC	all_sections	ERR1797974_2.subsampled	/mnt/c/Users/aimer/Documents/bioinfo_PROJ/2_qualitycheck/1_transcriptome/ERR1797974_2.subsampled_fastqc.zip
