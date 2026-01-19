@@ -1,0 +1,32 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                    genome_illumina_complet  genome_hybride_complet
+# contigs (>= 0 bp)         278                      55                    
+# contigs (>= 1000 bp)      168                      18                    
+# contigs (>= 5000 bp)      98                       15                    
+# contigs (>= 10000 bp)     73                       12                    
+# contigs (>= 25000 bp)     35                       11                    
+# contigs (>= 50000 bp)     16                       9                     
+Total length (>= 0 bp)      3012450                  3161622               
+Total length (>= 1000 bp)   2975371                  3153988               
+Total length (>= 5000 bp)   2810253                  3147611               
+Total length (>= 10000 bp)  2627941                  3125807               
+Total length (>= 25000 bp)  2013780                  3107474               
+Total length (>= 50000 bp)  1311265                  3050313               
+# contigs                   192                      20                    
+Largest contig              114326                   938395                
+Total length                2992265                  3155447               
+Reference length            3168410                  3168410               
+GC (%)                      37.63                    37.72                 
+Reference GC (%)            37.70                    37.70                 
+N50                         43564                    897208                
+NG50                        43080                    897208                
+N90                         8051                     122955                
+NG90                        4308                     122955                
+auN                         51308.2                  634647.7              
+auNG                        48455.7                  632051.1              
+L50                         21                       2                     
+LG50                        23                       2                     
+L90                         81                       6                     
+LG90                        107                      6                     
+# N's per 100 kbp           0.00                     0.00                  

@@ -1,0 +1,72 @@
+/mnt/c/Users/Admin/Documents/bioinfo/NGS_Project/check_quality/genome/Quast/Illumina/../../../../../Project2/quast-5.3.0/quast.py ../../../../alignment/Illumina/genome_illumina_complet.fasta -r ../../../../raw_data/genome/E745.fasta -o quast_genomecomplet_illumina
+
+Version: 5.3.0, c3eb988a
+
+System information:
+  OS: Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.39 (linux_64)
+  Python version: 3.13.2
+  CPUs number: 8
+
+Started: 2026-01-19 10:33:58
+
+Logging to /mnt/c/Users/Admin/Documents/bioinfo/NGS_Project/check_quality/genome/Quast/Illumina/quast_genomecomplet_illumina/quast.log
+NOTICE: Output directory already exists and looks like a QUAST output dir. Existing results can be reused (e.g. previously generated alignments)!
+NOTICE: Maximum number of threads is set to 2 (use --threads option to set it manually)
+
+CWD: /mnt/c/Users/Admin/Documents/bioinfo/NGS_Project/check_quality/genome/Quast/Illumina
+Main parameters: 
+  MODE: default, threads: 2, min contig length: 500, min alignment length: 65, min alignment IDY: 95.0, \
+  ambiguity: one, min local misassembly length: 200, min extensive misassembly length: 1000
+
+WARNING: Can't draw plots: python-matplotlib is missing or corrupted.
+
+Reference:
+  /mnt/c/Users/Admin/Documents/bioinfo/NGS_Project/raw_data/genome/E745.fasta ==> E745
+
+Contigs:
+  Pre-processing...
+  ../../../../alignment/Illumina/genome_illumina_complet.fasta ==> genome_illumina_complet
+
+2026-01-19 10:34:01
+Running Basic statistics processor...
+  Reference genome:
+    E745.fasta, length = 3168410, num fragments = 7, GC % = 37.70
+  Contig files: 
+    genome_illumina_complet
+  Calculating N50 and L50...
+    genome_illumina_complet, N50 = 43564, L50 = 21, auN = 51308.2, Total length = 2992265, GC % = 37.63, # N's per 100 kbp =  0.00
+Done.
+
+2026-01-19 10:34:13
+Running Contig analyzer...
+Compiling Minimap2 (details are in /mnt/c/Users/Admin/Documents/bioinfo/Project2/quast-5.3.0/quast_libs/minimap2/make.log and make.err)
+make -C /mnt/c/Users/Admin/Documents/bioinfo/Project2/quast-5.3.0/quast_libs/minimap2 \
+>> /mnt/c/Users/Admin/Documents/bioinfo/Project2/quast-5.3.0/quast_libs/minimap2/make.log \
+2>> /mnt/c/Users/Admin/Documents/bioinfo/Project2/quast-5.3.0/quast_libs/minimap2/make.err
+The tool returned non-zero. See ../../../../../Project2/quast-5.3.0/quast_libs/minimap2/make.err for stderr.
+WARNING: Failed to compile Minimap2 (/mnt/c/Users/Admin/Documents/bioinfo/Project2/quast-5.3.0/quast_libs/minimap2)! Try to compile it manually. You can restart Quast with the --debug flag to see the compilation command.
+
+ERROR! Compilation of contig aligner software was unsuccessful! QUAST functionality will be limited.
+Failed aligning the contigs for all the assemblies. Only basic stats are going to be evaluated.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2026-01-19 10:34:13
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 1: Creating Icarus viewers...
+Done
+
+2026-01-19 10:34:15
+RESULTS:
+  Text versions of total report are saved to /mnt/c/Users/Admin/Documents/bioinfo/NGS_Project/check_quality/genome/Quast/Illumina/quast_genomecomplet_illumina/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /mnt/c/Users/Admin/Documents/bioinfo/NGS_Project/check_quality/genome/Quast/Illumina/quast_genomecomplet_illumina/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /mnt/c/Users/Admin/Documents/bioinfo/NGS_Project/check_quality/genome/Quast/Illumina/quast_genomecomplet_illumina/report.html
+  Icarus (contig browser) is saved to /mnt/c/Users/Admin/Documents/bioinfo/NGS_Project/check_quality/genome/Quast/Illumina/quast_genomecomplet_illumina/icarus.html
+  Log is saved to /mnt/c/Users/Admin/Documents/bioinfo/NGS_Project/check_quality/genome/Quast/Illumina/quast_genomecomplet_illumina/quast.log
+
+Finished: 2026-01-19 10:34:19
+Elapsed time: 0:00:21.704905
+NOTICEs: 3; WARNINGs: 3; non-fatal ERRORs: 1
+
+Thank you for using QUAST!

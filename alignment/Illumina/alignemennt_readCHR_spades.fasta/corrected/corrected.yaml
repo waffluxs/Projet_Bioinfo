@@ -1,0 +1,8 @@
+- "left reads":
+  - "/mnt/c/Users/aimer/Documents/bioinfo_PROJ/6_trimmed_data/2_spades/alignemennt_readCHR_spades.fasta/corrected/outputCHR_forward_paired.00.0_0.cor.fastq.gz"
+  "orientation": "fr"
+  "right reads":
+  - "/mnt/c/Users/aimer/Documents/bioinfo_PROJ/6_trimmed_data/2_spades/alignemennt_readCHR_spades.fasta/corrected/outputCHR_reverse_paired.00.0_0.cor.fastq.gz"
+  "single reads":
+  - "/mnt/c/Users/aimer/Documents/bioinfo_PROJ/6_trimmed_data/2_spades/alignemennt_readCHR_spades.fasta/corrected/outputCHR__unpaired.00.0_0.cor.fastq.gz"
+  "type": "paired-end"

@@ -1,0 +1,13 @@
+Sample	Unique Reads	Duplicate Reads
+output69_forward_paired	112437.0	127956.0
+output69_reverse_paired	114067.0	126326.0
+output70_forward_paired	113396.0	133358.0
+output70_reverse_paired	117030.0	129724.0
+output71_forward_paired	113418.0	141728.0
+output71_reverse_paired	116500.0	138646.0
+output72_forward_paired	149646.0	100786.0
+output72_reverse_paired	162047.0	88385.0
+output73_forward_paired	117800.0	104430.0
+output73_reverse_paired	125998.0	96232.0
+output74_forward_paired	78087.0	42121.0
+output74_reverse_paired	85158.0	35050.0

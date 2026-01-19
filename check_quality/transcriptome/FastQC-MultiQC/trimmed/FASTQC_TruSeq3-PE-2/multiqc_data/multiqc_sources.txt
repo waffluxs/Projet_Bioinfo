@@ -1,0 +1,13 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	output69_forward_paired	/mnt/c/Users/Admin/Documents/bioinfo/NGS_Project/check_quality/transcriptome/FastQC-MultiQC/trimmed/FASTQC_TruSeq3-PE-2/output69_forward_paired_fastqc.zip
+FastQC	all_sections	output69_reverse_paired	/mnt/c/Users/Admin/Documents/bioinfo/NGS_Project/check_quality/transcriptome/FastQC-MultiQC/trimmed/FASTQC_TruSeq3-PE-2/output69_reverse_paired_fastqc.zip
+FastQC	all_sections	output70_forward_paired	/mnt/c/Users/Admin/Documents/bioinfo/NGS_Project/check_quality/transcriptome/FastQC-MultiQC/trimmed/FASTQC_TruSeq3-PE-2/output70_forward_paired_fastqc.zip
+FastQC	all_sections	output70_reverse_paired	/mnt/c/Users/Admin/Documents/bioinfo/NGS_Project/check_quality/transcriptome/FastQC-MultiQC/trimmed/FASTQC_TruSeq3-PE-2/output70_reverse_paired_fastqc.zip
+FastQC	all_sections	output71_forward_paired	/mnt/c/Users/Admin/Documents/bioinfo/NGS_Project/check_quality/transcriptome/FastQC-MultiQC/trimmed/FASTQC_TruSeq3-PE-2/output71_forward_paired_fastqc.zip
+FastQC	all_sections	output71_reverse_paired	/mnt/c/Users/Admin/Documents/bioinfo/NGS_Project/check_quality/transcriptome/FastQC-MultiQC/trimmed/FASTQC_TruSeq3-PE-2/output71_reverse_paired_fastqc.zip
+FastQC	all_sections	output72_forward_paired	/mnt/c/Users/Admin/Documents/bioinfo/NGS_Project/check_quality/transcriptome/FastQC-MultiQC/trimmed/FASTQC_TruSeq3-PE-2/output72_forward_paired_fastqc.zip
+FastQC	all_sections	output72_reverse_paired	/mnt/c/Users/Admin/Documents/bioinfo/NGS_Project/check_quality/transcriptome/FastQC-MultiQC/trimmed/FASTQC_TruSeq3-PE-2/output72_reverse_paired_fastqc.zip
+FastQC	all_sections	output73_forward_paired	/mnt/c/Users/Admin/Documents/bioinfo/NGS_Project/check_quality/transcriptome/FastQC-MultiQC/trimmed/FASTQC_TruSeq3-PE-2/output73_forward_paired_fastqc.zip
+FastQC	all_sections	output73_reverse_paired	/mnt/c/Users/Admin/Documents/bioinfo/NGS_Project/check_quality/transcriptome/FastQC-MultiQC/trimmed/FASTQC_TruSeq3-PE-2/output73_reverse_paired_fastqc.zip
+FastQC	all_sections	output74_forward_paired	/mnt/c/Users/Admin/Documents/bioinfo/NGS_Project/check_quality/transcriptome/FastQC-MultiQC/trimmed/FASTQC_TruSeq3-PE-2/output74_forward_paired_fastqc.zip
+FastQC	all_sections	output74_reverse_paired	/mnt/c/Users/Admin/Documents/bioinfo/NGS_Project/check_quality/transcriptome/FastQC-MultiQC/trimmed/FASTQC_TruSeq3-PE-2/output74_reverse_paired_fastqc.zip

@@ -1,0 +1,30 @@
+Assembly	genome_illumina_complet
+# contigs (>= 0 bp)	278
+# contigs (>= 1000 bp)	168
+# contigs (>= 5000 bp)	98
+# contigs (>= 10000 bp)	73
+# contigs (>= 25000 bp)	35
+# contigs (>= 50000 bp)	16
+Total length (>= 0 bp)	3012450
+Total length (>= 1000 bp)	2975371
+Total length (>= 5000 bp)	2810253
+Total length (>= 10000 bp)	2627941
+Total length (>= 25000 bp)	2013780
+Total length (>= 50000 bp)	1311265
+# contigs	192
+Largest contig	114326
+Total length	2992265
+Reference length	3168410
+GC (%)	37.63
+Reference GC (%)	37.70
+N50	43564
+NG50	43080
+N90	8051
+NG90	4308
+auN	51308.2
+auNG	48455.7
+L50	21
+LG50	23
+L90	81
+LG90	107
+# N's per 100 kbp	0.00

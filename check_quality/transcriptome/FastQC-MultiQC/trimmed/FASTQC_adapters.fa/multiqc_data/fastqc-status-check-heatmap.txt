@@ -1,0 +1,13 @@
+.	Basic Statistics	Per Base Sequence Quality	Per Tile Sequence Quality	Per Sequence Quality Scores	Per Base Sequence Content	Per Sequence GC Content	Per Base N Content	Sequence Length Distribution	Sequence Duplication Levels	Overrepresented Sequences	Adapter Content
+output69_forward_paired	1	1	1	1	0.25	0.25	1	0.5	0.25	0.25	0.25
+output69_reverse_paired	1	1	1	1	0.25	0.25	1	0.5	0.25	0.25	0.25
+output70_forward_paired	1	1	0.5	1	0.25	0.25	1	0.5	0.25	0.25	0.25
+output70_reverse_paired	1	1	1	1	0.25	0.25	1	0.5	0.25	0.25	0.25
+output71_forward_paired	1	1	0.5	1	0.25	0.25	1	0.5	0.25	0.25	0.25
+output71_reverse_paired	1	1	1	1	0.25	0.25	1	0.5	0.25	0.25	0.25
+output72_forward_paired	1	1	0.5	1	0.5	1	1	0.5	0.5	0.5	0.25
+output72_reverse_paired	1	1	1	1	0.25	1	1	0.5	0.5	0.5	0.25
+output73_forward_paired	1	1	0.5	1	0.5	1	1	0.5	0.5	0.5	0.25
+output73_reverse_paired	1	1	1	1	0.25	1	1	0.5	0.5	0.5	0.25
+output74_forward_paired	1	1	0.5	1	0.5	1	1	0.5	0.5	0.5	0.25
+output74_reverse_paired	1	1	1	1	0.25	1	1	0.5	0.5	0.5	0.25

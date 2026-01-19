@@ -1,0 +1,30 @@
+# BUSCO version is: 5.5.0 
+# The lineage dataset is: firmicutes_odb10 (Creation date: 2024-01-08, number of genomes: 1212, number of BUSCOs: 218)
+# Summarized benchmarking in BUSCO notation for file /mnt/c/Users/PC/Documents/FISE2/bioinfo/projet/projet_margot/contigsP2.fasta
+# BUSCO was run in mode: prok_genome
+# Gene predictor used: prodigal
+
+	***** Results: *****
+
+	C:0.0%[S:0.0%,D:0.0%],F:0.0%,M:100.0%,n:218	   
+	0	Complete BUSCOs (C)			   
+	0	Complete and single-copy BUSCOs (S)	   
+	0	Complete and duplicated BUSCOs (D)	   
+	0	Fragmented BUSCOs (F)			   
+	218	Missing BUSCOs (M)			   
+	218	Total BUSCO groups searched		   
+
+Assembly Statistics:
+	1	Number of scaffolds
+	1	Number of contigs
+	31797	Total length
+	0.000%	Percent gaps
+	31 KB	Scaffold N50
+	31 KB	Contigs N50
+
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	bbmap: 39.06
+	prodigal: 2.6.3
+	busco: 5.5.0

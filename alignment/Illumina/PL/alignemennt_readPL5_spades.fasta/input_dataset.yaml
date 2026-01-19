@@ -1,0 +1,6 @@
+- "left reads":
+  - "/mnt/c/Users/aimer/Documents/bioinfo_PROJ/6_trimmed_data/paired/outputPL5_forward_paired.fastq"
+  "orientation": "fr"
+  "right reads":
+  - "/mnt/c/Users/aimer/Documents/bioinfo_PROJ/6_trimmed_data/paired/outputPL5_reverse_paired.fastq"
+  "type": "paired-end"

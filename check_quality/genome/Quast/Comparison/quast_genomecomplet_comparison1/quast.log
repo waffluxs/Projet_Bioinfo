@@ -1,0 +1,69 @@
+/mnt/c/Users/Admin/Documents/bioinfo/NGS_Project/check_quality/genome/Quast/Comparison/../../../../../Project2/quast-5.3.0/quast.py ../../../../alignment/Illumina/genome_illumina_complet.fasta ../../../../alignment/Hybrid/genome_hybride_complet.fasta -r ../../../../raw_data/genome/E745.fasta -o quast_genomecomplet_comparison1
+
+Version: 5.3.0, c3eb988a
+
+System information:
+  OS: Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.39 (linux_64)
+  Python version: 3.13.2
+  CPUs number: 8
+
+Started: 2026-01-19 11:47:39
+
+Logging to /mnt/c/Users/Admin/Documents/bioinfo/NGS_Project/check_quality/genome/Quast/Comparison/quast_genomecomplet_comparison1/quast.log
+NOTICE: Maximum number of threads is set to 2 (use --threads option to set it manually)
+
+CWD: /mnt/c/Users/Admin/Documents/bioinfo/NGS_Project/check_quality/genome/Quast/Comparison
+Main parameters: 
+  MODE: default, threads: 2, min contig length: 500, min alignment length: 65, min alignment IDY: 95.0, \
+  ambiguity: one, min local misassembly length: 200, min extensive misassembly length: 1000
+
+WARNING: Can't draw plots: python-matplotlib is missing or corrupted.
+
+Reference:
+  /mnt/c/Users/Admin/Documents/bioinfo/NGS_Project/raw_data/genome/E745.fasta ==> E745
+
+Contigs:
+  Pre-processing...
+  1  ../../../../alignment/Illumina/genome_illumina_complet.fasta ==> genome_illumina_complet
+  2  ../../../../alignment/Hybrid/genome_hybride_complet.fasta ==> genome_hybride_complet
+
+2026-01-19 11:47:42
+Running Basic statistics processor...
+  Reference genome:
+    E745.fasta, length = 3168410, num fragments = 7, GC % = 37.70
+  Contig files: 
+    1  genome_illumina_complet
+    2  genome_hybride_complet
+  Calculating N50 and L50...
+    1  genome_illumina_complet, N50 = 43564, L50 = 21, auN = 51308.2, Total length = 2992265, GC % = 37.63, # N's per 100 kbp =  0.00
+    2  genome_hybride_complet, N50 = 897208, L50 = 2, auN = 634647.7, Total length = 3155447, GC % = 37.72, # N's per 100 kbp =  0.00
+Done.
+
+2026-01-19 11:47:52
+Running Contig analyzer...
+WARNING: Previous try of Minimap2 compilation was unsuccessful! For forced retrying, please remove /mnt/c/Users/Admin/Documents/bioinfo/Project2/quast-5.3.0/quast_libs/minimap2/make.failed and restart QUAST. 
+
+ERROR! Compilation of contig aligner software was unsuccessful! QUAST functionality will be limited.
+Failed aligning the contigs for all the assemblies. Only basic stats are going to be evaluated.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2026-01-19 11:47:52
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 1: Creating Icarus viewers...
+Done
+
+2026-01-19 11:47:55
+RESULTS:
+  Text versions of total report are saved to /mnt/c/Users/Admin/Documents/bioinfo/NGS_Project/check_quality/genome/Quast/Comparison/quast_genomecomplet_comparison1/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /mnt/c/Users/Admin/Documents/bioinfo/NGS_Project/check_quality/genome/Quast/Comparison/quast_genomecomplet_comparison1/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /mnt/c/Users/Admin/Documents/bioinfo/NGS_Project/check_quality/genome/Quast/Comparison/quast_genomecomplet_comparison1/report.html
+  Icarus (contig browser) is saved to /mnt/c/Users/Admin/Documents/bioinfo/NGS_Project/check_quality/genome/Quast/Comparison/quast_genomecomplet_comparison1/icarus.html
+  Log is saved to /mnt/c/Users/Admin/Documents/bioinfo/NGS_Project/check_quality/genome/Quast/Comparison/quast_genomecomplet_comparison1/quast.log
+
+Finished: 2026-01-19 11:47:59
+Elapsed time: 0:00:20.665367
+NOTICEs: 2; WARNINGs: 3; non-fatal ERRORs: 1
+
+Thank you for using QUAST!

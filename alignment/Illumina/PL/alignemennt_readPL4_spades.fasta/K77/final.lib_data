@@ -1,0 +1,43 @@
+---
+max read length: 150
+nomerge max read length: 150
+average read length: 149.719
+average coverage: 13.9703
+libraries:       
+    - type:            paired-end
+      orientation:     fr
+      left reads:      
+        - /mnt/c/Users/aimer/Documents/bioinfo_PROJ/6_trimmed_data/2_spades/alignemennt_readPL4_spades.fasta/corrected/outputPL4_forward_paired.00.0_0.cor.fastq.gz
+      right reads:     
+        - /mnt/c/Users/aimer/Documents/bioinfo_PROJ/6_trimmed_data/2_spades/alignemennt_readPL4_spades.fasta/corrected/outputPL4_reverse_paired.00.0_0.cor.fastq.gz
+      single reads:    
+        - /mnt/c/Users/aimer/Documents/bioinfo_PROJ/6_trimmed_data/2_spades/alignemennt_readPL4_spades.fasta/corrected/outputPL4__unpaired.00.0_0.cor.fastq.gz
+      data:            
+        unmerged read length: 150
+        merged read length: 0
+        insert size mean: 199.706
+        insert size deviation: 9.63986
+        insert size left quantile: 187
+        insert size right quantile: 213
+        insert size median: 199
+        insert size mad: 7
+        insert size distribution: { 173: 3, 175: 1, 176: 4, 177: 4, 178: 6, 
+                                    179: 1, 180: 3, 181: 4, 182: 3, 183: 12, 
+                                    184: 9, 185: 10, 186: 11, 187: 22, 
+                                    188: 15, 189: 21, 190: 25, 191: 20, 
+                                    192: 28, 193: 35, 194: 30, 195: 30, 
+                                    196: 39, 197: 32, 198: 43, 199: 45, 
+                                    200: 29, 201: 45, 202: 31, 203: 32, 
+                                    204: 25, 205: 36, 206: 29, 207: 35, 
+                                    208: 24, 209: 14, 210: 18, 211: 23, 
+                                    212: 11, 213: 17, 214: 16, 215: 10, 
+                                    216: 14, 217: 9, 218: 7, 219: 5, 220: 1, 
+                                    221: 1, 222: 6, 223: 1, 224: 2, 225: 1, 
+                                    226: 2, 234: 1 }
+        pi threshold:    0
+        binary converted: true
+        single reads mapped: false
+        library index:   0
+        number of reads: 2292
+        total nucleotides: 343157
+...
